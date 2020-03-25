@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/backend_server.iml" filepath="$PROJECT_DIR$/backend_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mPaas_backendserver_mgs_http_post.iml" filepath="$PROJECT_DIR$/mPaas_backendserver_mgs_http_post.iml" />
+    </modules>
+  </component>
+</project>

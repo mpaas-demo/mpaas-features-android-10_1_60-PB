@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DemoLauncher.iml" filepath="$PROJECT_DIR$/DemoLauncher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/DemoLauncher-api.iml" filepath="$PROJECT_DIR$/api/DemoLauncher-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/DemoLauncher-app-demo-build.iml" filepath="$PROJECT_DIR$/app/DemoLauncher-app-demo-build.iml" group="DemoLauncher/demo-build" />
+      <module fileurl="file://$PROJECT_DIR$/MyDemos-mPaaS_Framework_HelloWorld-DemoLauncher.iml" filepath="$PROJECT_DIR$/MyDemos-mPaaS_Framework_HelloWorld-DemoLauncher.iml" group="DemoLauncher" />
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app-demo-build.iml" filepath="$PROJECT_DIR$/app/app-demo-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/demo-build.iml" filepath="$PROJECT_DIR$/app/demo-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mPaaS_Framework_HelloWorld-DemoLauncher.iml" filepath="$PROJECT_DIR$/mPaaS_Framework_HelloWorld-DemoLauncher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/mPaaS_Framework_HelloWorld-DemoLauncher-api.iml" filepath="$PROJECT_DIR$/api/mPaaS_Framework_HelloWorld-DemoLauncher-api.iml" group="DemoLauncher/api" />
+    </modules>
+  </component>
+</project>

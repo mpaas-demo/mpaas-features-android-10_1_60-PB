@@ -1,0 +1,13 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+    <bean id="sampleService" class="com.aliyun.mpaas.demo.SampleServiceImpl"/>
+    <bean id="mpcServiceStarter" class="com.alipay.gateway.spi.mpc.MpcServiceStarter">
+        <property name="registryUrl" value="116.62.81.246"/>
+        <property name="appName" value="Demo_BackendServer_MPC"/>
+        <property name="workspaceId" value="beimo"/>
+        <property name="projectName" value="DEZKHECN"/>
+        <property name="privateKeyPath" value="/config/private_key_base64.der"/>
+    </bean>
+</beans>

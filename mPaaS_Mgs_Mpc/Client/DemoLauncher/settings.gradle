@@ -1,0 +1,2 @@
+include ':api', ':demo-build'
+project(':demo-build').projectDir = new File('app')
