@@ -12,17 +12,17 @@ mPaaS（mobile Platform as a Service），源自于支付宝，全面开放支�
 
 | 组件 | 库名| 具体项 | 状态|
 | -- | -- | -- | -- |
-|MGS | mPaaS_Mgs_Http_Post | 调用后端http post服务接口，无参 | 开放中
-|MGS | mPaaS_Mgs_Http_Post_Json|调用后端http post服务接口，后端服务接受json格式的post body| 开放中
-| MGS | mPaaS_Mgs_Http_Post_form|调用后端http post服务接口，后端服务接受form格式的post body|开放中
-| MGS | mPaaS_Mgs_Http_Get|调用后端http get服务接口，无参	| 开放中
-| MGS | mPaaS_Mgs_Http_query|调用后端http get服务接口，后端服务接受url中的QueryString参数|开放中
-| MGS | mPaaS_Mgs_Http_Put|调用后端http put服务接口，无参	| 开放中
-| MGS | mPaaS_Mgs_Http_delete|调用后端http delete服务接口，无参	|开放中
-| MGS | mPaaS_Mgs_Mpc | 调用后端MPC服务，无参	| 开放中
-| MGS | mPaaS_Mgs_Http_Post_EncryptRequestBody_RSA | 调用后端HTTP POST接口，通过RAS加密算法对RequestBody进行加密 | 开放中
-| MGS | mPaaS_Mgs_Http_Post_EncryptRequestBody_ECC | 调用后端HTTP POST接口，通过ECC加密算法对RequestBody进行加密 | 开放中
-| MGS | mPaaS_Mgs_Http_Post_EncryptRequestBody_SM2 | 调用后端HTTP POST接口，通过SM2加密算法对RequestBody进行加密 | 开放中
+|MGS | [mPaaS_Mgs_Http_Post](https://github.com/mpaas-demo/mpaas-features-android-10_1_60-PB/tree/master/mPaaS_Mgs_Http_Post) | 调用后端http post服务接口，无参 | 开放中
+|MGS | [mPaaS_Mgs_Http_Post_Json](https://github.com/mpaas-demo/mpaas-features-android-10_1_60-PB/tree/master/mPaaS_Mgs_Http_Post_Json) |调用后端http post服务接口，后端服务接受json格式的post body| 开放中
+| MGS | [mPaaS_Mgs_Http_Post_form](https://github.com/mpaas-demo/mpaas-features-android-10_1_60-PB/tree/master/mPaaS_Mgs_Http_Post_Form) |调用后端http post服务接口，后端服务接受form格式的post body|开放中
+| MGS | [mPaaS_Mgs_Http_Get](https://github.com/mpaas-demo/mpaas-features-android-10_1_60-PB/tree/master/mPaaS_Mgs_Http_Get)|调用后端http get服务接口，无参	| 开放中
+| MGS | [mPaaS_Mgs_Http_query](https://github.com/mpaas-demo/mpaas-features-android-10_1_60-PB/tree/master/mPaaS_Mgs_Http_Get_QueryStr) |调用后端http get服务接口，后端服务接受url中的QueryString参数|开放中
+| MGS | [mPaaS_Mgs_Http_Put](https://github.com/mpaas-demo/mpaas-features-android-10_1_60-PB/tree/master/mPaaS_Mgs_Http_Put)|调用后端http put服务接口，无参	| 开放中
+| MGS | [mPaaS_Mgs_Http_delete](https://github.com/mpaas-demo/mpaas-features-android-10_1_60-PB/tree/master/mPaaS_Mgs_Http_Delete) |调用后端http delete服务接口，无参	|开放中
+| MGS | [mPaaS_Mgs_Mpc](https://github.com/mpaas-demo/mpaas-features-android-10_1_60-PB/tree/master/mPaaS_Mgs_Mpc) | 调用后端MPC服务，无参	| 开放中
+| MGS | [mPaaS_Mgs_Http_Post_EncryptRequestBody_RSA](https://github.com/mpaas-demo/mpaas-features-android-10_1_60-PB/tree/master/mPaaS_Mgs_Http_Post_EncryptRequestBody_RSA) | 调用后端HTTP POST接口，通过RAS加密算法对RequestBody进行加密 | 开放中
+| MGS | [mPaaS_Mgs_Http_Post_EncryptRequestBody_ECC](https://github.com/mpaas-demo/mpaas-features-android-10_1_60-PB/tree/master/mPaaS_Mgs_Http_Post_EncryptRequestBody_ECC) | 调用后端HTTP POST接口，通过ECC加密算法对RequestBody进行加密 | 开放中
+| MGS | [mPaaS_Mgs_Http_Post_EncryptRequestBody_SM2](https://github.com/mpaas-demo/mpaas-features-android-10_1_60-PB/tree/master/mPaaS_Mgs_Http_Post_EncryptRequestBody_SM2) | 调用后端HTTP POST接口，通过SM2加密算法对RequestBody进行加密 | 开放中
 
 - 即将开放的组件 Demo 清单（持续更新中）
 
